@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Wesleysrael GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![Wesleysrael GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleysrael&show_icons=true)
 
 
 **wesleysrael/wesleysrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
