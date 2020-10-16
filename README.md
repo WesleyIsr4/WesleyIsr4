@@ -7,6 +7,6 @@ Student of Computer Science at the State University of Rio Grande do Norte - UER
 
  - Name: Wesley Israel
  - Age: 23
- - Living in: Mossoró - RN
+ - Living in: Mossoró, RN - Brazil
  - University: Universidade do Estado do Rio Grande do Norte
 
