@@ -1,4 +1,5 @@
-I am a computer scientist, student of back-end programming 👨‍💻. Interested in making life easier by creating utility tools. Fascinated by space.
+Computer scientist student, developer back-end 👨‍💻. 
+Interested in making life easier to create utility tool. Fascinated by space.
 
 - 🔭 I currently work with Typescript, React, Sql, Node.js
 - ⚡ I'm currently working as a fullstack developer at <a href="https://softwrap.com.br/" target="_blank">Softwrap</a>
