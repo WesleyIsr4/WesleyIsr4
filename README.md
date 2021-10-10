@@ -1,4 +1,4 @@
-Computer scientist student, developer back-end 👨‍💻. 
+Computer scientist student, Software Enginner - Front-End 👨‍💻. 
 Interested in making life easier to create utility tool. Fascinated by space.
 
 - 🔭 I currently work with React/NextJS, Node, Typescript, noSQL, SQL
